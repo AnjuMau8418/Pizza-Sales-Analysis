@@ -1,4 +1,4 @@
-## 🍕 **Pizza Sales Analysis** 
+## 🍕 Pizza Sales Analysis
 
 ## 📌 Project Overview
 This project analyzes **pizza sales data** using **SQL and Excel** to gain insights into sales performance, customer preferences, and business trends.  
@@ -51,20 +51,21 @@ The analysis involves:
 ### **PCT(%) of Sales by Pizza size**
 ![PCT(%) of Sales by Pizza size](Dashboard/PCT_of_Sales_by_Pizza_Size.png)
 
+### **Total Pizza sold by Pizza category**
+![Total Pizza Sold by Pizza category](Dashboard/Total_Pizza_Sold_by_Pizza_Category.png)
+
+### **Daily Trends for Total Orders**
+![Daily Trends for total Orders](Dashboard/Daily_Trend_for_total_orders.png)
+
 ### **Top-Selling Pizzas**
 ![Best 5 Selling Pizzas](Dashboard/Top_Selling_Pizza.png)
 
 ### **Bottom 5 Selling Pizzas**
 ![Bottom 5 Selling Pizzas](Dashboard/Bottom_5_wrost_selling_pizzas.png)
 
-### **Daily Trends for Total Orders**
-![Daily Trends for total Orders](Dashboard/Daily_Trend_for_total_orders.png)
 
 ### **Hourly Trends for Total Orders**
 ![Hourly Trends for total Orders](Dashboard/Hourly_Trend_for_total_orders.png)
-
-### **Total Pizza sold by Pizza category**
-![Total Pizza Sold by Pizza category](Dashboard/Total_Pizza_Sold_by_Pizza_Category.png)
 
 
 ## 💡 Business Recommendations
