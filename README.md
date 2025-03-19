@@ -59,11 +59,6 @@ The analysis involves:
 
 ------
 
-### **Total Pizza sold by Pizza category**
-![Total Pizza Sold by Pizza category](Dashboard/Total_Pizza_Sold_by_Pizza_Category.png)
-<p> The classic category has the highest number of pizzas sold.</p>
-
--------
 
 ### **Daily Trends for Total Orders**
 ![Daily Trends for total Orders](Dashboard/Daily_Trend_for_total_orders.png)
@@ -84,6 +79,12 @@ The analysis involves:
 ### **Hourly Trends for Total Orders**
 ![Hourly Trends for total Orders](Dashboard/Hourly_Trend_for_total_orders.png)
 <p> 12:00 pm – 1:00 pm and 5:00 pm – 6:00 pm the pizza order is highest compared to the other times in the day.</p>
+
+-------
+
+### **Total Pizza sold by Pizza category**
+![Total Pizza Sold by Pizza category](Dashboard/Total_Pizza_Sold_by_Pizza_Category.png)
+<p> The classic category has the highest number of pizzas sold.</p>
 
 
 ## 💡 Business Recommendations
