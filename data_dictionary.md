@@ -36,8 +36,5 @@ Feature	Description:
   - 🍕 **Size-Based Preferences**: Determine whether customers prefer Regular(small), medium, large, extra large or double extra large pizza.
 
 ## 🛠️ How This Dataset is Used in the Project
-**SQL Analysis 🖥️**
-  - Extract insights using SQL queries to analyze sales, revenue, and customer preferences.
-**Excel Validation & Dashboard 📊**
-  - Use Excel to verify SQL results and create interactive visual dashboards.
-
+  - **SQL Analysis 🖥️** : Extract insights using SQL queries to analyze sales, revenue, and customer preferences. 
+  - **Excel Validation & Dashboard 📊** : Use Excel to verify SQL results and create interactive visual dashboards.
