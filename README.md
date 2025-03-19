@@ -47,7 +47,8 @@ The analysis involves:
 
 ### **PCT(%)of Sales by Pizza category**
 ![PCT(%) of Sales by Pizza category](Dashboard/PCT_of_Sales_by_pizza_category.png)
-Chicken and Classic category pizza has the highest percentage of sales among all other categories.
+
+<p> Chicken and Classic category pizza has the highest percentage of sales among all other categories.</p>
 
 ### **PCT(%) of Sales by Pizza size**
 ![PCT(%) of Sales by Pizza size](Dashboard/PCT_of_Sales_by_Pizza_Size.png)
