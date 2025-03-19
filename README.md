@@ -35,7 +35,7 @@ The analysis involves:
 - **Average Order Value (AOV)**: 📈 Customers prefer mid-to-premium priced pizzas.
 
 
-🛠 Tools Used
+## 🛠 Tools Used
  - SQL - Data Querying & Analysis
  - Excel - Data cleaning, Validation & Visualization
  - GitHub - Documentation & Version Control
@@ -60,10 +60,10 @@ The analysis involves:
 ### **Total Pizza sold by Pizza category**
 ![Total Pizza Sold by Pizza category](Dashboard/Total_Pizza_Sold_by_Pizza_Category.png)
 
-### **% of Sales by Pizza category**
+### ** % of Sales by Pizza category**
 ![% of Sales by Pizza category](Dashboard/%_of_Sales_by_pizza_category.png)
 
-### **% of Sales by Pizza size**
+### ** % of Sales by Pizza size**
 ![% of Sales by Pizza size](Dashboard/%_of_Sales_by_Pizza_Size.png)
 
 ## 💡 Business Recommendations
