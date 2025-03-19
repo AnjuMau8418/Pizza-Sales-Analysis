@@ -45,31 +45,41 @@ The analysis involves:
 ### **Sales Dashboard**
 ![Pizza Sales Dashboard](Dashboard/Sales_dashboard.jpg)
 
+------
+
 ### **PCT(%)of Sales by Pizza category**
 ![PCT(%) of Sales by Pizza category](Dashboard/PCT_of_Sales_by_pizza_category.png)
 <p> Chicken and Classic category pizza has the highest percentage of sales among all other categories.</p>
+
+------
 
 ### **PCT(%) of Sales by Pizza size**
 ![PCT(%) of Sales by Pizza size](Dashboard/PCT_of_Sales_by_Pizza_Size.png)
 <p> Large and medium-sized pizzas have the highest sales percentage than other pizza types. </p>
 
+------
 
 ### **Total Pizza sold by Pizza category**
 ![Total Pizza Sold by Pizza category](Dashboard/Total_Pizza_Sold_by_Pizza_Category.png)
 <p> The classic category has the highest number of pizzas sold.</p>
 
+-------
 
 ### **Daily Trends for Total Orders**
 ![Daily Trends for total Orders](Dashboard/Daily_Trend_for_total_orders.png)
 <p> weekends(Thusday/Friday/Saturday) pizza orders are highest among the normal days.</p>
 
+-------
+
 ### **Top-Selling Pizzas**
 ![Best 5 Selling Pizzas](Dashboard/Top_Selling_Pizza.png)
 
+-------
 
 ### **Bottom 5 Selling Pizzas**
 ![Bottom 5 Selling Pizzas](Dashboard/Bottom_5_wrost_selling_pizzas.png)
 
+-------
 
 ### **Hourly Trends for Total Orders**
 ![Hourly Trends for total Orders](Dashboard/Hourly_Trend_for_total_orders.png)
