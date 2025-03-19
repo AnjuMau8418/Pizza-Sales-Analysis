@@ -1,6 +1,5 @@
-📌 Dataset Description – Pizza Sales Analysis
+## 📌 Dataset Description – Pizza Sales Analysis
 The Pizza Sales Analysis Dataset contains transactional sales data from a pizza restaurant. This dataset helps in analyzing sales trends, customer preferences, and revenue insights. It includes details on pizza orders, such as order timestamps, pizza sizes, categories, ingredients, and pricing information.
-
 This dataset is ideal for performing SQL-based data analysis and Excel-based dashboard visualizations to extract meaningful insights about sales performance and customer behaviour.
 
 ## **📝 Column Descriptions**
@@ -20,16 +19,16 @@ This dataset is ideal for performing SQL-based data analysis and Excel-based das
 | `pizza_ingredients` | `TEXT`       | A list of ingredients used in the pizza recipe. |
 | `pizza_name`        | `TEXT`       | The full name of the pizza as it appears on the menu. |
 
-📑 Key Features of the Dataset
+## 📑 Key Features of the Dataset
 Feature	Description
-🛒 Order Details	Includes order_id, order_date, and order_time to track when a pizza was ordered.
-🍕 Pizza Information	Contains pizza_id, pizza_name_id, pizza_name, and pizza_category to identify the type of pizza sold.
-📏 Pizza Size	Pizzas are classified by size (S, M, L).
-💰 Pricing Details	unit_price (cost per pizza) and total_price (cost of the full order) are included.
-🥗 Ingredients	The pizza_ingredients column provides a list of ingredients for each pizza type.
-📈 Sales Performance  The dataset allows for analyzing total sales, popular pizzas, and peak sales times.
+ - 🛒 Order Details	Includes order_id, order_date, and order_time to track when a pizza was ordered.
+ - 🍕 Pizza Information	Contains pizza_id, pizza_name_id, pizza_name, and pizza_category to identify the type of pizza sold.
+ - 📏 Pizza Size	Pizzas are classified by size (S, M, L).
+ - 💰 Pricing Details	unit_price (cost per pizza) and total_price (cost of the full order) are included.
+ - 🥗 Ingredients	The pizza_ingredients column provides a list of ingredients for each pizza type.
+ - 📈 Sales Performance  The dataset allows for analyzing total sales, popular pizzas, and peak sales times.
 
- Possible Insights from the Dataset
+ ## Possible Insights from the Dataset
   - Sales Trends 📊: Identify best-selling pizzas and revenue over time.
   - Top Customers’ Preferences 🍽️: Analyze which pizza category (Classic, Supreme, Veggie, Chicken) is most popular.
   - Revenue & Pricing Strategy 💰: Understand average order value and pricing effectiveness.
