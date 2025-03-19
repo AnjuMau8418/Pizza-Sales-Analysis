@@ -18,21 +18,21 @@ The analysis involves:
 ## 📊 Key Insights
 
 ### 🔹 **Sales Trends Analysis**
- - **Peak Sales Hours**: Highest orders during **lunch (12 PM - 1 PM) & dinner (5 PM - 6 PM)**.  
- - **Best Sales Days**: **Weekends (Saturday & Sunday)** have maximum sales.  
- - **Monthly Trends**: **Holiday seasons** boost sales significantly.  
+   - **Peak Sales Hours**: Highest orders during **lunch (12 PM - 1 PM) & dinner (5 PM - 6 PM)**.  
+   - **Best Sales Days**: **Weekends (Saturday & Sunday)** have maximum sales.  
+   - **Monthly Trends**: **Holiday seasons** boost sales significantly.  
 
 ### 🔹 **Pizza Performance**
- - **Top-Selling Pizzas**: Generate the highest revenue.  
- - **Low-Selling Pizzas**: Need **rebranding or discounts**.  
+   - **Top-Selling Pizzas**: Generate the highest revenue.  
+   - **Low-Selling Pizzas**: Need **rebranding or discounts**.  
 
 ### 🔹 **Customer Preferences**
- - **Large pizzas contribute the most revenue**.  
- - **Classic & Chicken pizzas** are the most popular.  
+   - **Large pizzas contribute the most revenue**.  
+   - **Classic & Chicken pizzas** are the most popular.  
 
 ### 🔹 **Revenue Insights**
- - **Total Revenue**: 💲 High revenue generated from large-sized pizzas.  
- - **Average Order Value (AOV)**: 📈 Customers prefer mid-to-premium priced pizzas.
+   - **Total Revenue**: 💲 High revenue generated from large-sized pizzas.  
+   - **Average Order Value (AOV)**: 📈 Customers prefer mid-to-premium priced pizzas.
 
 
 ## 🛠 Tools Used
@@ -61,23 +61,23 @@ The analysis involves:
 ![Total Pizza Sold by Pizza category](Dashboard/Total_Pizza_Sold_by_Pizza_Category.png)
 
 ### **PCT(%) of Sales by Pizza category**
-![PCT(%) of Sales by Pizza category](Dashboard/%_of_Sales_by_pizza_category.png)
+![PCT(%) of Sales by Pizza category](Dashboard/PCT(%)_of_Sales_by_pizza_category.png)
 
 ### **PCT(%) of Sales by Pizza size**
-![PCT(%) of Sales by Pizza size](Dashboard/%_of_Sales_by_Pizza_Size.png)
+![PCT(%) of Sales by Pizza size](Dashboard/PCT(%)_of_Sales_by_Pizza_Size.png)
 
 ## 💡 Business Recommendations
 🔹 **Marketing Strategies**
-  - Promote **weekend discounts & meal deals**.  
-  - Bundle slow-moving pizzas with best-sellers to **increase demand**.  
+   - Promote **weekend discounts & meal deals**.  
+   - Bundle slow-moving pizzas with best-sellers to **increase demand**.  
 
 🔹 **Inventory Optimization**
-  - Stock up on **popular pizza ingredients**.  
-  - Reduce orders for **least-selling pizzas** to cut waste.  
+   - Stock up on **popular pizza ingredients**.  
+   - Reduce orders for **least-selling pizzas** to cut waste.  
 
 🔹 **Customer Experience**
-  - Optimize **delivery efficiency** during peak hours.  
-  - Use **loyalty rewards & personalized offers**.  
+   - Optimize **delivery efficiency** during peak hours.  
+   - Use **loyalty rewards & personalized offers**.  
 
 ## 📌 Conclusion
 This project provides data-driven insights to help optimize sales, improve marketing strategies, and enhance customer satisfaction.
