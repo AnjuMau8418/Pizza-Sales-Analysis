@@ -47,21 +47,21 @@ The analysis involves:
 
 ### **PCT(%)of Sales by Pizza category**
 ![PCT(%) of Sales by Pizza category](Dashboard/PCT_of_Sales_by_pizza_category.png)
-<p> <h2>Chicken and Classic category pizza </h2> has the highest percentage of sales among all other categories.</p>
+<p> Chicken and Classic category pizza has the highest percentage of sales among all other categories.</p>
 
 ### **PCT(%) of Sales by Pizza size**
 ![PCT(%) of Sales by Pizza size](Dashboard/PCT_of_Sales_by_Pizza_Size.png)
-<p> <h2>Large and medium size pizzas </h2> have the highest sales percentage than other pizza types. </p>
+<p> Large and medium-sized pizzas have the highest sales percentage than other pizza types. </p>
 
 
 ### **Total Pizza sold by Pizza category**
 ![Total Pizza Sold by Pizza category](Dashboard/Total_Pizza_Sold_by_Pizza_Category.png)
-<p> The <h2>classic category </h2> has the highest number of pizzas sold.</p>
+<p> The classic category has the highest number of pizzas sold.</p>
 
 
 ### **Daily Trends for Total Orders**
 ![Daily Trends for total Orders](Dashboard/Daily_Trend_for_total_orders.png)
-<p> <h2>weekends(Friday/Saturday) pizza </h2> orders are highest among the normal days.</p>
+<p> weekends(Thusday/Friday/Saturday) pizza orders are highest among the normal days.</p>
 
 ### **Top-Selling Pizzas**
 ![Best 5 Selling Pizzas](Dashboard/Top_Selling_Pizza.png)
@@ -73,29 +73,22 @@ The analysis involves:
 
 ### **Hourly Trends for Total Orders**
 ![Hourly Trends for total Orders](Dashboard/Hourly_Trend_for_total_orders.png)
-<p> <h2>12:00 pm – 1:00 pm and 5:00 pm – 6:00 pm </h2> the pizza order is highest compared to the other times in the day.</p>
+<p> 12:00 pm – 1:00 pm and 5:00 pm – 6:00 pm the pizza order is highest compared to the other times in the day.</p>
 
 
 ## 💡 Business Recommendations
 🔹 **Marketing Strategies**
-   - Promote **weekend discounts & meal deals**.  
-   - Bundle slow-moving pizzas with best-sellers to **increase demand**.  
+    - Promote **weekend discounts & meal deals**.  
+    - Bundle slow-moving pizzas with best-sellers to **increase demand**.  
 
 🔹 **Inventory Optimization**
-   - Stock up on **popular pizza ingredients**.  
-   - Reduce orders for **least-selling pizzas** to cut waste.  
+    - Stock up on **popular pizza ingredients**.  
+    - Reduce orders for **least-selling pizzas** to cut waste.  
 
 🔹 **Customer Experience**
-   - Optimize **delivery efficiency** during peak hours.  
-   - Use **loyalty rewards & personalized offers**.  
+    - Optimize **delivery efficiency** during peak hours.  
+    - Use **loyalty rewards & personalized offers**.  
 
 ## 📌 Conclusion
 This project provides data-driven insights to help optimize sales, improve marketing strategies, and enhance customer satisfaction.
 By implementing these recommendations, businesses can boost revenue and minimize losses.
-
-
-
-
-
-
-
